@@ -25,7 +25,7 @@
 <p>To run this project locally, follow these steps:</p>
 <ol>
     <li>Clone the repository:
-        <pre><code>git clone https://github.com/your-repo/food-delivery-app.git</code></pre>
+        <pre><code>git clone git@github.com:BharathChavala1/Food_Devlivery_Project.git</code></pre>
     </li>
     <li>Navigate to the project directory:
         <pre><code>cd food-delivery-app</code></pre>
