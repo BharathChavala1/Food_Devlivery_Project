@@ -37,7 +37,7 @@
         <pre><code>mvn spring-boot:run</code></pre>
     </li>
 </ol>
-<p>The application will be available at <code>http://localhost:8080</code>.</p>
+<p>The application will be available at <code>http://localhost:8008</code>.</p>
 
 <h2>Usage</h2>
 <ol>
@@ -60,7 +60,7 @@
     </li>
     <li><strong>Swagger Documentation</strong>: 
         <ul>
-            <li>Access the API documentation at <code>http://localhost:8080/swagger-ui.html</code> for detailed API endpoints and usage.</li>
+            <li>Access the API documentation at <code>http://localhost:8008/swagger-ui.html</code> for detailed API endpoints and usage.</li>
         </ul>
     </li>
 </ol>
